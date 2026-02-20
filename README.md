@@ -11,16 +11,16 @@ _**This is a sample of a good README.md file that can be used when describing a 
 * Additional Information *
 
 
-__Project__Title__
+##Project__Title##
 First project is *Hello-World- My First Repository
 
-__Description__
+##Description ##
 
 ** Practice using GITHUB by creating a sample repository. Make sure you add a description to help others understand your project you're presenting. This should be explain in detail what you did in this project, what your accomplished, outcomes, results, so on.
 
 
-__Files__Used__
+##Files__Used##
 
-__How to run program__
+##How to run program##
 
-__Additional__Information__
+##Additional__Information##
